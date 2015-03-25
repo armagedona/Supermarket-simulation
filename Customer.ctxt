@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=personalID\ arrivalTime
+comment0.target=Customer(int,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n
+comment1.params=time
+comment1.target=void\ setLeaveTime(double)
+comment2.params=
+comment2.target=double\ getLeaveTime()
+comment3.params=
+comment3.target=double\ getDelay()
+comment4.params=
+comment4.target=void\ generateGaussian()
+comment5.params=
+comment5.target=int\ numberOfItems()
+numComments=6

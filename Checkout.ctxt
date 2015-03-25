@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Checkout()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Checkout\r\n
+comment1.params=
+comment1.target=int\ getSize()
+comment2.params=cust
+comment2.target=void\ addCustomer(Customer)
+comment3.params=
+comment3.target=Customer\ getFirstCustomer()
+comment4.params=
+comment4.target=void\ removeCustomer()
+numComments=5

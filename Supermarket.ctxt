@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=totalSimulationTime
+comment0.target=Supermarket(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Supermarket\r\n
+comment1.params=
+comment1.target=void\ simulate()
+comment2.params=
+comment2.target=boolean\ newCustomer()
+comment3.params=
+comment3.target=Checkout\ getShortestCheck()
+comment4.params=
+comment4.target=ExpressCheckout\ getShortestExprCheck()
+comment5.params=
+comment5.target=void\ closingTime()
+comment6.params=
+comment6.target=void\ averageQueueSize()
+comment7.params=
+comment7.target=void\ averageExprQueueSize()
+comment8.params=
+comment8.target=void\ cleanUp()
+numComments=9

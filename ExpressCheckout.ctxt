@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ExpressCheckout()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ExpressCheckout\r\n
+comment1.params=
+comment1.target=int\ getSizeExpress()
+comment2.params=cust
+comment2.target=void\ addCustomerExpress(Customer)
+comment3.params=
+comment3.target=Customer\ getFirstCustomerExpress()
+comment4.params=
+comment4.target=void\ removeCustomerExpress()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Items()
+comment1.params=Products
+comment1.target=java.lang.String\ TextReader(java.lang.String)
+comment2.params=filename
+comment2.target=void\ showItems(java.lang.String)
+comment3.params=numberOfItems\ custID
+comment3.target=void\ selectItems(int,\ int)
+numComments=4
